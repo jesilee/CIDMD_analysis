@@ -99,14 +99,6 @@ def load_frags(infilename):
         for line in f:
             l = line.split()
             frags.append(l[-1])
-    # print('frags = ')
-    # print(frags)
-    # ==#
-    # need to change x
-    # depending on how many Ar containing fragments exist in the file
-    # x = 2
-    # frags = frags[x:-1]
-    # chars = [i for i in "C2H6"]
     return frags
 
 
