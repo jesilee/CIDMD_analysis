@@ -46,10 +46,10 @@ For the scripts to work properly,
    `CIDMD_analysis.com`
    `CIDMD_analysis.py`
 * `Molecule/cid/calcs/XXX/gathered/learn_rxn.log`
-* `Molecule/mol_info.in` (please see `https://github.com/jesilee/CIDMD_setup/blob/main/README.md' for an example)
+* `Molecule/mol_info.in` (please see 'https://github.com/jesilee/CIDMD_setup/blob/main/README.md' for an example)
 
   
 ## Important notes
 To start CIDMD, Folder organization is very important. Please see the instruction to set up CIDMD here:
-`https://github.com/jesilee/CIDMD_setup/blob/main/README.md`
+'https://github.com/jesilee/CIDMD_setup/blob/main/README.md'
 
