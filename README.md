@@ -20,7 +20,7 @@ For the scripts to work properly,
 
 
 ## Inputs
-* `learn_rxn.log` files located in `Molecule/cid/calcs/XXX/gathered/` that resulted from post-processing CIDMD by running `LearnReactions.py`
+* `learn_rxn.log` files located in `Molecule/cid/calcs/XXX/gathered/` that resulted from post-processing CIDMD by running `LearnReactions.py` written by Prof. Lee-Ping Wang. His repository: 'https://github.com/leeping/nanoreactor' (not yet released)
 * `mol_info.in` file located in `Molecule/`
 
   
@@ -45,7 +45,9 @@ For the scripts to work properly,
 * these files from this repo should be in the current working directory:
    `CIDMD_analysis.com`
    `CIDMD_analysis.py`
+* `LearnReactions.py` written by Prof. Lee-Ping Wang. His repository: 'https://github.com/leeping/nanoreactor' (not yet released)
 * `Molecule/cid/calcs/XXX/gathered/learn_rxn.log`
+  (this would be the resulting output file from running `LearnReactions.py`)
 * `Molecule/mol_info.in` (please see 'https://github.com/jesilee/CIDMD_setup/blob/main/README.md' for an example)
 
   
